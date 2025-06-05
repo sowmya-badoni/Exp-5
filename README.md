@@ -4,10 +4,10 @@
 To study the problem statement, SRS document and draw all the UML diagrams of a Student Enrollment Management System.
 
 # SRS (Procedure):
-**Register Number:** 212223230020
 
-## DEVELOPED BY : ARJUN N S
-**Register Number:** 212223230020
+
+## DEVELOPED BY : SOWMYA BADONI
+**Register Number:** 212223230211
 
 # DIAGRAMS:
 
